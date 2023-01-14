@@ -1,22 +1,22 @@
 # Dagger2_PRACTICE
 1. build gradle setting -> JETPACKCOMPOSE_DAGGER2 확인
 
-2. 디렉토리 구조 
-      - data        
-        1. di       
-        2. model       
-        3. network       
-        4. repository 
+2. 디렉토리 구조
+      - data       
+        1. di      
+        2. model      
+        3. network     
+        4. repository
 
-       - domain       
-          1. di       
-          2. model       
-          3. repository       
-          4. use_case  
+      - domain      
+         1. di 
+         2. model  
+         3. repository   
+         4. use_case 
           
-       - mappers      
-       - presantation     
-      1. screen   
+      - mappers 
+      - presantation 
+         1. screen
 
 3. data-> model  : 말그대로 모델 작성(DTO로 작성)
 4. MainApplication 
