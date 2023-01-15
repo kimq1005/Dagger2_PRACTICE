@@ -111,4 +111,10 @@ dependencies {
 
     // flow layout
     implementation "com.google.accompanist:accompanist-flowlayout:0.24.4-alpha"
+
+//    //navermap
+    implementation 'io.github.fornewid:naver-map-compose:1.2.0'
+    implementation 'com.naver.maps:map-sdk:3.16.0'
+
+    implementation 'com.airbnb.android:lottie-compose:5.0.3'
 }
