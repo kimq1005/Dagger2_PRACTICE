@@ -62,7 +62,7 @@ fun Greeting(name: String) {
     ) {
         Text(text = "Hello $name !")
         Spacer(modifier = Modifier.height(10.dp))
-        Text(text = "adasdasdhasud")
+        Text(text = "adasdasdhaㅇasdasdsud")
     }
 
 }

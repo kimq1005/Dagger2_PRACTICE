@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">JETPACK_DAGGER_PLZ</string>
+    <string name="PET_MIllY_TITLE">펫밀리</string>
+    <string name="Title_Description">세상에 모든 강아지 고양이는\n똑같이 사랑받을 자격이 있다.</string>
+    <string name="kakao_login_text">카카오 회원가입/로그인</string>
 </resources>
